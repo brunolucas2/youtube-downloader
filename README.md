@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="assets/youtube-downloader-pixel-icon.png" width="450" alt="YouTube Downloader"/>
+  <img src="https://drive.google.com/uc?export=view&id=1hilxe_2GG8Px78GXJWDK03lvhqxQo7Wt" width="450" alt="YouTube Downloader"/>
 </p>
 
 <p align="center">
-  <img src="assets/pixelarttitle.png"
+  <img src="https://drive.google.com/uc?export=view&id=1YBzECZDjJ-5oN_paRYOFgSHKEzgefzBO"
        alt="YouTube Downloader"
        width="325"/>
 </p>
-
 <p align="center">
   Um downloader de vídeos e áudios do YouTube desenvolvido em Python,
   com interface via terminal e suporte à conversão de áudio para MP3.
