@@ -92,8 +92,6 @@ O FFmpeg é necessário para mesclar áudio e vídeo e extrair áudio no formato
 Abra o PowerShell e execute:
 
 ```powershell
-winget install Gyan.FFmpeg
-Ou
 winget install -e --id Gyan.FFmpeg
 ```
 
