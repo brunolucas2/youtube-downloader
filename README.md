@@ -17,6 +17,12 @@ Um downloader de vídeos e áudios do YouTube desenvolvido em Python, com interf
 
 ## Tecnologias utilizadas
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ffmpeg/ffmpeg-original.svg" width="40" alt="FFmpeg"/>
+</p>
+
 - **Python:** lógica principal e interface da aplicação.
 - **yt-dlp:** extração de informações e download de conteúdo.
 - **Node.js:** execução de JavaScript para auxiliar na extração de conteúdo.
