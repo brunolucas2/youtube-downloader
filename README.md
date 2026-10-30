@@ -23,12 +23,6 @@ Antes de executar o projeto, instale:
 - **Node.js:** runtime JavaScript utilizado pelo yt-dlp.
 - **FFmpeg:** ferramenta utilizada para processamento e conversão de mídia.
 
-Links para instalação:
-
-- [Python](https://www.python.org/downloads/)
-- [Node.js](https://nodejs.org/)
-- [FFmpeg](https://ffmpeg.org/)
-
 ## Instalação
 
 Clone o repositório:
