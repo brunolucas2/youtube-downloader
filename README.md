@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/youtube-downloader-pixel-icon.png" width="550" alt="YouTube Downloader"/>
+  <img src="assets/youtube-downloader-pixel-icon.png" width="450" alt="YouTube Downloader"/>
 </p>
 
 <p align="center">
   <img src="assets/pixelarttitle.png"
        alt="YouTube Downloader"
-       width="300"/>
+       width="325"/>
 </p>
 
 <p align="center">
