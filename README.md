@@ -93,6 +93,8 @@ Abra o PowerShell e execute:
 
 ```powershell
 winget install Gyan.FFmpeg
+Ou
+winget install -e --id Gyan.FFmpeg
 ```
 
 Alternativamente, utilizando Chocolatey:
