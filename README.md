@@ -43,6 +43,7 @@
 
 ```text
 youtube-downloader/
+├── assets/
 ├── downloads/
 ├── main.py
 ├── requirements.txt
