@@ -106,7 +106,8 @@ Se o terminal reconhecer o comando e exibir as informações da versão, a insta
 Execute o programa na pasta do projeto:
 
 ```bash
-python main.py (Windows) | python3 main.py (Linux)
+python main.py (No Windows) 
+python3 main.py (No Linux)
 ```
 
 Siga as instruções apresentadas no terminal:
