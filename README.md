@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/youtube-downloader-title-transparent.png"
+  <img src="assets/pixelarttitle.png"
        alt="YouTube Downloader"
        width="700"/>
 </p>
