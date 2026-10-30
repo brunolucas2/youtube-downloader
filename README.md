@@ -15,6 +15,25 @@ Um downloader de vídeos e áudios do YouTube desenvolvido em Python, com interf
 - Tratamento de erros durante a análise e o download.
 - Organização dos arquivos baixados em uma pasta `downloads`.
 
+## Tecnologias utilizadas
+
+- **Python:** lógica principal e interface da aplicação.
+- **yt-dlp:** extração de informações e download de conteúdo.
+- **Node.js:** execução de JavaScript para auxiliar na extração de conteúdo.
+- **FFmpeg:** processamento, mesclagem e conversão de mídia.
+
+## Estrutura do projeto
+
+```text
+youtube-downloader/
+├── downloads/
+├── main.py
+├── requirements.txt
+├── .gitignore
+├── config.conf
+└── README.md
+```
+
 ## Requisitos
 
 Antes de executar o projeto, instale:
@@ -106,8 +125,13 @@ Se o terminal reconhecer o comando e exibir as informações da versão, a insta
 Execute o programa na pasta do projeto:
 
 ```bash
-python main.py (No Windows) 
-python3 main.py (No Linux)
+python main.py
+```
+
+No Linux, caso necessário:
+
+```bash
+python3 main.py
 ```
 
 Siga as instruções apresentadas no terminal:
@@ -119,25 +143,6 @@ Siga as instruções apresentadas no terminal:
 5. Aguarde a conclusão do download.
 
 Os arquivos serão salvos automaticamente na pasta `downloads`.
-
-## Tecnologias utilizadas
-
-- **Python:** lógica principal e interface da aplicação.
-- **yt-dlp:** extração de informações e download de conteúdo.
-- **Node.js:** execução de JavaScript para auxiliar na extração de conteúdo.
-- **FFmpeg:** processamento, mesclagem e conversão de mídia.
-
-## Estrutura do projeto
-
-```text
-youtube-downloader/
-├── downloads/
-├── main.py
-├── requirements.txt
-├── .gitignore
-├── config.conf
-└── README.md
-```
 
 ## Aviso
 
