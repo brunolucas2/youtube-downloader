@@ -18,9 +18,20 @@ Um downloader de vídeos e áudios do YouTube desenvolvido em Python, com interf
 ## Tecnologias utilizadas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="40" alt="FFmpeg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       width="40"
+       alt="Python"
+       title="Python"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+       width="40"
+       alt="Node.js"
+       title="Node.js"/>
+
+  <img src="https://cdn.simpleicons.org/ffmpeg/007808"
+       width="40"
+       alt="FFmpeg"
+       title="FFmpeg"/>
 </p>
 
 - **Python:** lógica principal e interface da aplicação.
