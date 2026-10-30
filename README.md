@@ -1,6 +1,13 @@
-# YouTube Downloader
+<p align="center">
+  <img src="assets/youtube-downloader-title-transparent.png"
+       alt="YouTube Downloader"
+       width="700"/>
+</p>
 
-Um downloader de vídeos e áudios do YouTube desenvolvido em Python, com interface via terminal e suporte à conversão de áudio para MP3.
+<p align="center">
+  Um downloader de vídeos e áudios do YouTube desenvolvido em Python,
+  com interface via terminal e suporte à conversão de áudio para MP3.
+</p>
 
 **Versão:** 1.0.0
 
